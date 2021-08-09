@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>马宇飞</title>
   <icon>https://www.gravatar.com/avatar/6c8bcd8fee8d6d8f0fc6345a0570f541</icon>
-  <subtitle>马宇飞的博客</subtitle>
+  
   <link href="https://ma-yuf.tk/atom.xml" rel="self"/>
   
   <link href="https://ma-yuf.tk/"/>
